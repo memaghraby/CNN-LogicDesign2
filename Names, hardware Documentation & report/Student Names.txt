@@ -1,0 +1,13 @@
+Team Number = 8
+
+Mahmoud Ezzat Mahmoud Naguib ElMaghraby
+1170532
+Part 1,2
+
+Ahmed Mohamed Abdelazim
+1170100
+Part 4,5
+
+Nour Ayman Gaafar Zohry
+1170408
+Part 3
